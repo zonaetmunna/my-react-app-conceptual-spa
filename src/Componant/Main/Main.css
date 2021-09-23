@@ -1,0 +1,50 @@
+.js-confusing{
+
+}
+
+.main{
+     margin-top: 20px;
+     display: flex;
+
+}
+.left-main{
+     width: 70%;
+
+}
+
+.tutorials{
+     display: grid;
+     grid-template-columns: repeat(3,1fr);
+     grid-gap: 10px;
+}
+.tutorial h1{
+     color: violet;
+}
+
+
+/* right part */
+.right{
+width: 30%;
+background-color: rgb(240, 208, 240);
+}
+
+/* training */
+.training{
+     padding: 20px;
+
+}
+
+
+/* recent video */
+.recent-video{
+     padding: 20px;
+
+}
+.recent-video a{
+     text-decoration: none;
+}
+.recent-video button{
+     padding: 10px;
+     border-radius: 10px;
+     background-color: rgb(83, 241, 241);
+}

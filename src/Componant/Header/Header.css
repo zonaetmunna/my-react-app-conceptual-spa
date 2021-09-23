@@ -1,0 +1,41 @@
+body{
+     margin:0;
+     
+}
+
+.header-nav{
+     background-color: black;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 10px 50px; 
+
+
+}
+.header-nav{
+     font-size: larger;
+}
+
+.header-nav h2 a{
+     text-decoration: none;
+     color: white
+}
+
+.header-nav button{
+     background-color: chocolate;
+     padding: 10px 8px;
+     color: white;
+     border-radius: 10px;
+}
+
+.Main-header{
+     background-color: thistle;
+     padding: 20px 50px;
+
+}
+.Main-header button{
+     background-color: violet;
+     border-radius: 10px;
+     padding: 10px 10px;
+
+}
